@@ -55,11 +55,7 @@
             <optional>true</optional>
         </dependency>
 		444
-<<<<<<< HEAD
-             33333
-=======
-             11111111111111
->>>>>>> 7c8e19b56395ceaca797677d938757ed2e3097d3
+		333
         <!--Mybatis -相关-->
 		111111111111
         <dependency>
