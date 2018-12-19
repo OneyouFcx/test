@@ -54,6 +54,7 @@
             <scope>true</scope>
             <optional>true</optional>
         </dependency>
+             <!--sss-->
         <!--Mybatis -相关-->
 		<!--Mybatis -ss-->
         <dependency>
