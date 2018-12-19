@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://118.24.110.195:3306/testdb
+    username: root
+    password: 123
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+mybatis:
+  #实体类所做包
+  type-aliases-package:
+  #mapper.xml所在位置
+  mapper-locations: classpath:mappers/*.xml
