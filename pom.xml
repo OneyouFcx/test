@@ -55,6 +55,7 @@
             <optional>true</optional>
         </dependency>
         <!--Mybatis -相关-->
+		<!--Mybatis -ss-->
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatisplus-spring-boot-starter</artifactId>
