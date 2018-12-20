@@ -49,6 +49,7 @@
         </dependency>
         <!--    热部署222  -->
         <!--    热部署333  -->
+        <!--    热部署444  -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
